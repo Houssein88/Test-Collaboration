@@ -1,0 +1,20 @@
+{
+  "name": "Test-Collaboration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Houssein88/Test-Collaboration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Houssein88/Test-Collaboration/issues"
+  },
+  "homepage": "https://github.com/Houssein88/Test-Collaboration#readme"
+}
